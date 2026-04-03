@@ -1,0 +1,17 @@
+# Бинарники
+main
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Персональные данные (КРИТИЧЕСКОЕ)
+identity.key
+chat.db
+chat.db-journal
+
+# Зависимости и логи
+vendor/
+*.log
+.DS_Store
